@@ -1,0 +1,6 @@
+{"author":"author1", "book":"book1"}
+{"author":"author1", "book":"book2"}
+{"author":"author1", "book":"book3"}
+{"author":"author2", "book":"book4"}
+{"author":"author2", "book":"book5"}
+{"author":"author3", "book":"book6"}
