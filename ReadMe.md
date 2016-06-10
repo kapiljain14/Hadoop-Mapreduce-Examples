@@ -12,9 +12,9 @@ This project is having some sample map-reduce program for understand
 
 ## Run Instruction
 Every package having execute Main java class which having input file path and output folder location.
-Please provid output folder location before execution of the main.
+Please provide output folder location before execution of the main.
 
 
 ## Conclusion
 * Please write to me if you have query or suggestion
-[Kapil jain](kapiljain14@hotmail.com)
+kapiljain14@hotmail.com
